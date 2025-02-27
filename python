@@ -1,0 +1,6 @@
+# Simple Python program
+print("Hello, World!")
+
+# Asking for user input
+name = input("Enter your name: ")
+print(f"Nice to meet you, {name}!")
