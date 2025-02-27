@@ -1,0 +1,24 @@
+Version Control
+Git – Distributed version control system for tracking changes in source code.
+GitHub/GitLab/Bitbucket – Cloud-based Git repositories for collaboration and CI/CD integration.
+CI/CD (Continuous Integration & Continuous Deployment)
+Jenkins – Open-source automation server for building, testing, and deploying applications.
+GitHub Actions – CI/CD automation built into GitHub.
+GitLab CI/CD – Integrated pipeline system in GitLab.
+Infrastructure as Code (IaC)
+Terraform – Tool for provisioning and managing cloud infrastructure.
+Ansible – Configuration management and automation tool.
+CloudFormation – AWS service for managing infrastructure using templates.
+Containerization & Orchestration
+Docker – Platform for developing, shipping, and running containers.
+Kubernetes – Container orchestration system for managing Docker containers.
+Monitoring & Logging
+Prometheus – Open-source monitoring tool for metrics collection.
+Grafana – Visualization and dashboard tool for monitoring data.
+AWS CloudWatch – AWS monitoring service for logs and performance metrics.
+Security & Compliance
+Vault – Tool for managing secrets and credentials.
+SonarQube – Code quality and security analysis tool.
+Collaboration & Issue Tracking
+JIRA – Project management and issue-tracking tool.
+Slack – Communication tool for DevOps teams
